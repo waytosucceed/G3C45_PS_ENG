@@ -1,0 +1,250 @@
+{
+  "heading": "Greek and Latin roots",
+  "topics": [
+    {
+      "heading": "Greek and Latin roots",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word uses 'auto' to mean 'by itself'?",
+          "options": [
+            { "text": "Autism" },
+            { "text": "Autopilot" },
+            { "text": "Autumn" },
+            { "text": "Author" }
+          ],
+          "answer": 1,
+          "explanation": "'Autopilot' uses 'auto' to mean 'by itself'. It's a system that can control a vehicle by itself, without a human driver."
+        },
+        {
+          "questionNo": 2,
+          "question": "What does 'biology' study?",
+          "options": [
+            { "text": "Rocks" },
+            { "text": "Living things" },
+            { "text": "Numbers" },
+            { "text": "Stars" }
+          ],
+          "answer": 1,
+          "explanation": "'Biology' uses the root 'bio', which means 'life'. Biology is the study of living things and how they work."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word uses 'geo' to talk about the Earth?",
+          "options": [
+            { "text": "Asteroid" },
+            { "text": "George" },
+            { "text": "Geothermal" },
+            { "text": "Gerbil" }
+          ],
+          "answer": 2,
+          "explanation": "'Geothermal' uses 'geo', meaning 'earth'. Geothermal energy comes from heat inside the Earth."
+        },
+        {
+          "questionNo": 4,
+          "question": "In 'autograph', what does 'graph' mean?",
+          "options": [
+            { "text": "Picture" },
+            { "text": "Write" },
+            { "text": "Self" },
+            { "text": "Famous" }
+          ],
+          "answer": 1,
+          "explanation": "In 'autograph', 'graph' means 'write'. An autograph is when someone writes their name themselves, usually for a fan."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word means 'against ageing'?",
+          "options": [
+            { "text": "Antifreeze" },
+            { "text": "Antacid" },
+            { "text": "Antiageing" },
+            { "text": "Antenna" }
+          ],
+          "answer": 2,
+          "explanation": "'Antiageing' uses 'anti' (against) with 'ageing'. It refers to things that work against the signs of getting older."
+        },
+        {
+          "questionNo": 6,
+          "question": "What does 'autobiography' mean?",
+          "options": [
+            { "text": "A book about cars" },
+            { "text": "A made-up story" },
+            { "text": "A book about different countries" },
+            { "text": "A story someone writes about their own life" }
+          ],
+          "answer": 3,
+          "explanation": "'Autobiography' combines 'auto' (self) and 'bio' (life) with 'graph' (writing). It's a story someone writes about their own life."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word uses 'bio' to talk about something that breaks down naturally?",
+          "options": [
+            { "text": "Bicycle" },
+            { "text": "Binoculars" },
+            { "text": "Biodegradable" },
+            { "text": "Biscuit" }
+          ],
+          "answer": 2,
+          "explanation": "'Biodegradable' uses 'bio' (life) to describe something that can break down naturally because of living things like bacteria."
+        },
+        {
+          "questionNo": 8,
+          "question": "What does a 'geologist' study?",
+          "options": [
+            { "text": "Rocks and the Earth" },
+            { "text": "Animals" },
+            { "text": "Plants" },
+            { "text": "The weather" }
+          ],
+          "answer": 0,
+          "explanation": "A 'geologist' studies rocks and the Earth. The word uses 'geo', which means 'earth'."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word uses 'circ' to mean 'go around'?",
+          "options": [
+            { "text": "Circus" },
+            { "text": "Circle" },
+            { "text": "Circulate" },
+            { "text": "All of the above" }
+          ],
+          "answer": 3,
+          "explanation": "All these words use 'circ' (circle/go around). A circus has a circular ring, a circle is round, and when things circulate, they go around."
+        },
+        {
+          "questionNo": 10,
+          "question": "What does a 'dictionary' do?",
+          "options": [
+            { "text": "Takes pictures" },
+            { "text": "Tells you what words mean" },
+            { "text": "Teaches math" },
+            { "text": "Predicts the future" }
+          ],
+          "answer": 1,
+          "explanation": "A 'dictionary' uses 'dict' (say/tell). It tells you what words mean and how to use them."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word uses 'doc' to mean someone who teaches or is very learned?",
+          "options": [
+            { "text": "Doctor" },
+            { "text": "Dolphin" },
+            { "text": "Donkey" },
+            { "text": "Door" }
+          ],
+          "answer": 0,
+          "explanation": "'Doctor' uses 'doc' (teach). Originally, it meant someone who was very learned and could teach others."
+        },
+        {
+          "questionNo": 12,
+          "question": "What does a 'jury' do?",
+          "options": [
+            { "text": "Performs in a circus" },
+            { "text": "Fixes cars" },
+            { "text": "Makes decisions in a court" },
+            { "text": "Teaches in a school" }
+          ],
+          "answer": 2,
+          "explanation": "A 'jury' uses 'jur' (law). It's a group of people who make decisions in a court of law."
+        },
+        {
+          "questionNo": 13,
+          "question": "What shape is described by 'circumference'?",
+          "options": [
+            { "text": "Square" },
+            { "text": "Triangle" },
+            { "text": "Circle" },
+            { "text": "Rectangle" }
+          ],
+          "answer": 2,
+          "explanation": "'Circumference' uses 'circ' (circle). It means the distance around a circle."
+        },
+        {
+          "questionNo": 14,
+          "question": "In the word 'predict', what does 'dict' mean?",
+          "options": [
+            { "text": "Write" },
+            { "text": "Say" },
+            { "text": "See" },
+            { "text": "Think" }
+          ],
+          "answer": 1,
+          "explanation": "In 'predict', 'dict' means 'say'. To predict is to say what you think will happen in the future."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word uses 'geo' to talk about shapes?",
+          "options": [
+            { "text": "Geography" },
+            { "text": "Geometry" },
+            { "text": "Geology" },
+            { "text": "George" }
+          ],
+          "answer": 1,
+          "explanation": "'Geometry' uses 'geo' (earth) with 'metry' (measure). It's the study of shapes and how to measure them."
+        },
+        {
+          "questionNo": 16,
+          "question": "In 'automatic', what happens by itself?",
+          "options": [
+            { "text": "Writing" },
+            { "text": "Thinking" },
+            { "text": "An action or movement" },
+            { "text": "Growing" }
+          ],
+          "answer": 2,
+          "explanation": "'Automatic' uses 'auto' (self). Something 'automatic' does an action or movement by itself, without someone controlling it."
+        },
+        {
+          "questionNo": 17,
+          "question": "What does 'antihero' mean?",
+          "options": [
+            { "text": "A very good hero" },
+            { "text": "A flying hero" },
+            { "text": "A hero's friend" },
+            { "text": "A main character who isn't very heroic" }
+          ],
+          "answer": 3,
+          "explanation": "An 'antihero' is a main character who isn't very heroic. 'Anti' here means 'opposite', so it's the opposite of a typical hero."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word uses 'graph' to mean 'draw'?",
+          "options": [
+            { "text": "Grape" },
+            { "text": "Graphic" },
+            { "text": "Grasp" },
+            { "text": "Grass" }
+          ],
+          "answer": 1,
+          "explanation": "'Graphic' uses 'graph', meaning 'draw' or 'write'. It often refers to pictures or drawings, especially in books or on computers."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Geology" },
+            { "text": "Geologi" },
+            { "text": "Geoloogy" },
+            { "text": "Gelogy" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is 'G-E-O-L-O-G-Y.' It is the study of rocks, and of the way they are formed."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word is found with the Latin root 'jur'?",
+          "options": [
+            { "text": "Jug" },
+            { "text": "Jury" },
+            { "text": "Jelly" },
+            { "text": "Jump" }
+          ],
+          "answer": 1,
+          "explanation": "'Jury' contains the root 'jur', relating to law. A jury helps make decisions in a court of law."
+        }
+      ]
+    }
+  ]
+}
